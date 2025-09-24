@@ -47,18 +47,9 @@ Standardized Age and Fare with StandardScaler
 df.to_csv("Titanic-Dataset-Cleaned.csv", index=False)
 
 
-The cleaned dataset is now ready for ML tasks 🚀.
-
-📂 Project Structure
-├── Titanic-Dataset.csv            # Raw dataset
-├── Titanic-Dataset-Cleaned.csv    # Cleaned dataset (output)
-├── titanic_clean.py               # Preprocessing script
-└── README.md                      # Project documentation
-
 Next Steps:
 
 Use Titanic-Dataset-Cleaned.csv for ML models (Logistic Regression, Random Forest, etc.)
-
 Experiment with feature engineering and model evaluation.
 
 👨‍💻 Author
